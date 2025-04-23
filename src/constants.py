@@ -1,0 +1,5 @@
+MP4_SUFFIX=".mp4"
+MP4_INPUT_DIR="video"
+YOUTUBE_DIR = "https://www.youtube.com/watch?v="
+DATA_DIR = "data"
+IMAGE_DIR = "image"

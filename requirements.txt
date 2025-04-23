@@ -1,5 +1,5 @@
 # --------- pytorch --------- #
-torch==2.2.0
+torch==2.0.0
 numpy==1.24.1
 torchvision==0.15.1
 lightning==2.0.2
